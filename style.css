@@ -139,3 +139,26 @@ h3{
 	bottom: 0;
 	overflow: hidden;	
 }
+html{
+	scroll-behavior: smooth;
+}
+#index{
+	height: 700px;
+	display: inline-block;
+	width: 100%;
+}
+#about{
+	height: 700px;
+	display: inline-block;
+	width: 100%;
+}
+#gallery{
+	height: 700px;
+	display: inline-block;
+	width: 100%;
+}
+#service{
+	height: 700px;
+	display: inline-block;
+	width: 100%;
+}
